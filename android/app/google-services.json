@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132457464373",
+    "project_id": "tasks-ffcd8",
+    "storage_bucket": "tasks-ffcd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132457464373:android:436d35b41ae80955c9a77c",
+        "android_client_info": {
+          "package_name": "com.example.todolist_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtuq17EXA34KD_Fn9tb-JAihYH3UOLq7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
